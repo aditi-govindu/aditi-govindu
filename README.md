@@ -1,7 +1,6 @@
+[<img align='center' src="https://www.canva.com/design/DAEwy5Qd_Ho/peC5nVwoLR9XrKDYWEz9Pw/view?utm_content=DAEwy5Qd_Ho&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel" width="220" alt="My portfolio">]
 ### Hi there 👋
 
-<!--
-**aditi-govindu/aditi-govindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
