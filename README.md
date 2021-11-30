@@ -6,7 +6,6 @@ Hello, I'm Aditi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 <p>
 <a href="https://github.com/aditi-govindu" target="_blank"><img alt = "Github" src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://in.linkedin.com/in/aditigovindu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/aditig_1712" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
   </div>
 
