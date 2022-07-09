@@ -1,7 +1,8 @@
 <div align="center">
    <h1>
-Hello, I'm Aditi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello, I'm Aditi! 
  </h1>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
 
 <p>
 <a href="https://github.com/aditi-govindu" target="_blank"><img alt = "Github" src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
