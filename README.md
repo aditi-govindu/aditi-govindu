@@ -13,11 +13,11 @@ Hello, I'm Aditi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 ### 🔭 Something about me:
 <img align='right' src="https://github.com/aditi-govindu/aditi-govindu/blob/main/header.gif" width=60% alt="My portfolio" padding="2em">
 <p style = "font-family: Times New Roman; color: black; height: 4em;">
-I am a final year student from Pune, pursuing a <strong>B Tech</strong> degree in Computer Science at MIT-WPU. I am a fast learner, strategic thinker and curious programmer. My research interests are <strong> Data science, Deep learning, Software testing</strong> and <strong> Web development</strong>.
+I am a final year student from Pune, pursuing a <strong>B Tech</strong> degree in Computer Science at MIT-WPU. I am a fast learner, strategic thinker and natural negotiator. My research interests are <strong> Data science, Deep learning, Software testing</strong> and <strong> Web development</strong>.
 To gain expertise in these fields, I wish to work on challenging and innovative development projects.
 <p style = "font-family: Times New Roman; color: black; height: 4em;">
-I have worked on NLP and business intelligence projects to gain insight into AI topics.
-To view the work I have done, jump to <a href="https://github.com/aditi-govindu" target="_blank" rel="noopener noreferrer">my projects.</a>
+I have worked on NLP and business intelligence projects to hone my skillset.
+To view more, jump to <a href="https://github.com/aditi-govindu" target="_blank" rel="noopener noreferrer">my projects.</a>
 </p>
 <p style = "font-family: Times New Roman; color: black; height: 4em;">
 In addition to my academics, I am adept at paper quilling, baking and gardening
