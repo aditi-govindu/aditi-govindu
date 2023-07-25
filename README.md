@@ -13,7 +13,7 @@ Hello, I'm Aditi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 ### 🔭 Something about me:
 <img align='right' src="https://github.com/aditi-govindu/aditi-govindu/blob/main/header.gif" width=60% alt="My portfolio" padding="2em">
 <p style = "font-family: Times New Roman; color: black; height: 4em;">
-I am a final year student from Pune, pursuing a <strong>B Tech</strong> degree in Computer Science at MIT-WPU. I am a fast learner, strategic thinker and natural negotiator. My research interests are <strong> Data science, Deep learning, Software testing</strong> and <strong> Web development</strong>.
+I am a computer science graduate from Pune. I am a fast learner, strategic thinker and natural negotiator. My research interests are <strong> Data science, Deep learning, Software testing</strong> and <strong> Web development</strong>.
 To gain expertise in these fields, I wish to work on challenging and innovative development projects.
 <p style = "font-family: Times New Roman; color: black; height: 4em;">
 I have worked on NLP and business intelligence projects to hone my skillset.
@@ -22,15 +22,17 @@ To view more, jump to <a href="https://github.com/aditi-govindu" target="_blank"
 <p style = "font-family: Times New Roman; color: black; height: 4em;">
 In addition to my academics, I am adept at paper quilling, baking and gardening
 </p>
+<br>
 
 ### 🛠 Tools and technologies known:
 <p>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=black"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=black"/>
+
    
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23F05033.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/selenium%20-%23F05033.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -59,8 +61,8 @@ In addition to my academics, I am adept at paper quilling, baking and gardening
 
 ### 📈 Github statistics
 <a href="https://github.com/aditi-govindu/github-readme-stats">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=aditi-govindu&theme=radical" alt="Aditi's github status">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=aditi-govindu&theme=tokyonight&hide=contribs,prs" alt="Aditi's github status">
 </a>
 <a href="https://github.com/aditi-govindu/github-readme-stats">
-  <img img align='center' src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-govindu&theme=radical" alt = "Aditi's used languages">
+  <img img align='center' src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-govindu&theme=dracula" alt = "Aditi's used languages">
 </a>
